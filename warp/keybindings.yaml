@@ -1,0 +1,12 @@
+---
+"terminal:executing_command_move_cursor_word_right": cmd-right
+"workspace:show_command_search": cmd-r
+"terminal:focus_input": none
+"terminal:executing_command_move_cursor_end": alt-cmd-right
+"editor_view:move_backward_one_word": cmd-left
+"editor_view:select_left_by_subword": shift-cmd-left
+"editor_view:move_forward_one_word": cmd-right
+"editor_view:select_right_by_subword": shift-cmd-right
+"terminal:executing_command_move_cursor_word_left": cmd-left
+"terminal:executing_command_move_cursor_home": alt-cmd-left
+"input:clear_screen": cmd-l
