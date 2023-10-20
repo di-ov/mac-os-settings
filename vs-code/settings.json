@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+}
